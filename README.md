@@ -1,10 +1,10 @@
 ## Hi there! 👋
 
-I'm **Zachary Loeber**, an Infrastructure Automation and Solution Engineer with a DevOps mindset. Still in denial about being an actual developer. I love building efficient systems and automating processes to improve productivity.
+I'm **Zachary Loeber**, an Infrastructure engineer with a DevOps mindset who might still in denial about being an actual developer. I love building efficient systems and automating processes to improve productivity. Everything as code has long been my mantra and click-ops is my mortal enemy.
 
 ## About Me
 
-Based in **Madison, WI**, I'm currently working at **SPR**. My journey revolves around infrastructure automation, where I aim to streamline operations and enhance system performance. I enjoy tackling complex challenges and finding innovative solutions to vexing technical issues.
+Based in **Madison, WI**, I'm currently working at **SPR**. My journey revolves around infrastructure automation, where I aim to streamline operations and enhance system performance. I enjoy tackling complex challenges and finding innovative solutions to vexing technical issues. I have strong security, networking, and identity knowledge with almost 30 years of experience to draw upon.
 
 ## Skills & Technologies
 
@@ -14,23 +14,31 @@ Based in **Madison, WI**, I'm currently working at **SPR**. My journey revolves 
 
 Here are some of my top repositories:
 
+- [**metagit**](https://github.com/metagit-ai/metagit-cli): Metagit is situational awareness for your git projects. Metagit makes sprawling multi-repo projects feel like monorepos and provide concise information on the software stacks, generated artifacts, dependencies, and more.
 - [**taskfiles**](https://github.com/zloeber/taskfiles): This is a library of taskfile.dev definitions for things you may do at a cli once in a while or maybe multiple times a day. - ⭐ 0 - **Language**: Shell
-- [**dotfiles**](https://github.com/zloeber/dotfiles): My dotfiles (managed via chezmoi) - ⭐ 0 - **Language**: Shell
 - [**k8s-lab-terraform-libvirt**](https://github.com/zloeber/k8s-lab-terraform-libvirt): A Kubernetes lab environment using terraform and libvirt - ⭐ 40 - **Language**: Makefile
 - [**Powershell Scripts**](https://github.com/zloeber/Powershell): Ton of powershell scripts I mostly wrote from another lifetime ago when I lost my mind over PowerShell - ⭐ 130 - **Language**: PowerShell
 
 ## GitHub Stats
 
-🌟 **Public Repositories**: 69  
-👥 **Followers**: 110  
-👤 **Following**: 21  
+🌟 **Public Repositories**: 69
+👥 **Followers**: 110
+👤 **Following**: 21
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zloeber&show_icons=true&hide_title=true&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloeber&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Latest Blog Posts
+## Blog
 
 Check out my blog for the latest insights: [blog.zacharyloeber.com](https://blog.zacharyloeber.com)
+
+## Resume
+
+[My resume](https://registry.jsonresume.org/zloeber) - If my resume were not done as code in some manner I'd feel like a fraud.
+
+## Other Projects
+
+[Prepper Guides](www.prepper-guides.com) - A personal project for planning for disasters based on your location and threat profile. Free online application done to scratch an itch.
 
 ## Certifications
 
