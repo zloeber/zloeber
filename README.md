@@ -14,16 +14,17 @@ Based in **Madison, WI**, I'm currently working at **SPR**. My journey revolves 
 
 Here are some of my top repositories:
 
-- [**metagit**](https://github.com/metagit-ai/metagit-cli): Metagit is situational awareness for your git projects. Metagit makes sprawling multi-repo projects feel like monorepos and provide concise information on the software stacks, generated artifacts, dependencies, and more.
+- [**MetaGit**](https://github.com/metagit-ai/metagit-cli): Metagit is situational awareness for your git projects. Metagit makes sprawling multi-repo projects feel like monorepos and provide concise information on the software stacks, generated artifacts, dependencies, and more. - **Language**: Python
+- [**SecretZero**](https://secret0.com): Secrets as code management tool that automates the creation, seeding, and lifecycle management of project secrets through self-documenting declarative manifests. **Language**: Python
+- [**Terraform-Ingest**](https://github.com/zloeber/terraform-ingest): MCP server for AI agents that allows them to readily access your internal terraform modules for tasks. - **Language**: Python
 - [**taskfiles**](https://github.com/zloeber/taskfiles): This is a library of taskfile.dev definitions for things you may do at a cli once in a while or maybe multiple times a day. - ⭐ 0 - **Language**: Shell
-- [**k8s-lab-terraform-libvirt**](https://github.com/zloeber/k8s-lab-terraform-libvirt): A Kubernetes lab environment using terraform and libvirt - ⭐ 40 - **Language**: Makefile
 - [**Powershell Scripts**](https://github.com/zloeber/Powershell): Ton of powershell scripts I mostly wrote from another lifetime ago when I lost my mind over PowerShell - ⭐ 130 - **Language**: PowerShell
 
 ## GitHub Stats
 
-🌟 **Public Repositories**: 69
-👥 **Followers**: 110
-👤 **Following**: 21
+🌟 **Public Repositories**: 70+
+👥 **Followers**: 110+
+👤 **Following**: 21+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zloeber&show_icons=true&hide_title=true&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloeber&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
