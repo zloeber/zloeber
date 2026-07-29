@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Zachary Loeber**, an Infrastructure engineer with a DevOps mindset who might still in denial about being an actual developer. I love building efficient systems and automating processes to improve productivity. Everything as code has long been my mantra and click-ops is my mortal enemy.
+I'm **Zachary Loeber**, Just another tool making, complexity eating, infrastructure and workload automating, DevOps soldier. Everything as code has long been my mantra and click-ops is my mortal enemy.
 
 ## About Me
 
